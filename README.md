@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Allonme
+- 🌱 I’m currently learning javascript and python
+- 📫 How to reach me discord:allonmeswiftie
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: IDK
